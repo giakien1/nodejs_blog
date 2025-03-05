@@ -23,8 +23,7 @@
   "homepage": "https://github.com/giakien1/nodejs_blog#readme",
   "description": "",
   "lint-staged": {
-    "src/**/*.{js,json,scss}": "prettier --single-quote --trailing-coma all --tab-width 4 --write",
-    "*.{js,css,md}": "prettier --write"
+    "src/**/*.{js,json,scss}": "prettier --single-quote --trailing-coma all --tab-width 4 --write"
   },
   "dependencies": {
     "express": "^4.21.2",
